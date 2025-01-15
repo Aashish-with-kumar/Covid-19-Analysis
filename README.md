@@ -1,25 +1,22 @@
 # Covid-19-Analysis
-COVID-19 Data Analysis and Visualization Project
-Is project ka aim hai COVID-19 ke impact ko samajhna aur analyze karna, real-world data ka use karte hue. Project me daily confirmed cases, recoveries, deaths, aur vaccination data ko analyze kiya gaya hai. Tools jaise Python (Pandas, NumPy, Matplotlib), SQL, aur Jupyter Notebook ka use karke insights aur visualizations create kiye gaye hain.
+
+The aim of this project is to understand and analyze the impact of COVID-19 using real-world data. The project focuses on analyzing daily confirmed cases, recoveries, deaths, and vaccination data. Insights and visualizations have been created using tools such as Python (Pandas, NumPy, Matplotlib), SQL, and Jupyter Notebook.
 
 Key Objectives:
 
-1. COVID-19 ke cases aur trends ka analysis.
+1. Analysis of COVID-19 cases and trends.
 
 
-2. Countries ke beech infection aur mortality rates ka comparison.
+2. Comparison of infection and mortality rates between countries.
 
 
-3. Vaccination campaigns ka effect samajhna.
+3. Understanding the impact of vaccination campaigns.
 
 
-4. Data ko graphs aur charts ke through visualize karna.
+4. Visualizing data through graphs and charts.
 
 
 
-Project ka output real-time insights aur trends provide karta hai jo pandemic se related decision-making aur planning ke liye helpful ho sakte hain.
+The project's output provides real-time insights and trends that can be useful for pandemic-related decision-making and planning.
 
 
----
-
-Aap isse customize kar ke apne analysis aur tools ke specifics add kar sakte hain!
